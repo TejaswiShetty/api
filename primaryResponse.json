@@ -1,0 +1,135 @@
+{
+    "accessible_clients": [
+        {
+            "accessible_client_Name": "Client Portal",
+            "accessible client Reference": "111000"
+        }
+    ],
+    "as_at_date": [
+        "NZST",
+        "2018-04-12T00:18:08.953Z"
+    ],
+    "client_name": "testAllToken",
+    "client_portfolio_overview": [
+        {
+            "account": [
+                {
+                    "account_type": "cash",
+                    "available_funds": "12341.98",
+                    "cp_account_id": "CMT",
+                    "cp_account_name": "Client Portal bakjebfkajbsfkjba",
+                    "cp_code": "ACC_13",
+                    "current_balance": "12345.00",
+                    "estimated_income": null,
+                    "interest_rate": "6.50",
+                    "lendable_market_value": null,
+                    "market_value": null,
+                    "net_portfolio_value": null,
+                    "surplus_deficit": null,
+                    "unsettled_transactions": null
+                },
+                {
+                    "account_type": "cash",
+                    "available_funds": "0341.98",
+                    "cp_account_id": "CMT",
+                    "cp_account_name": "Client Portal bakjebfkajbsfkjba",
+                    "cp_code": "ACC_23",
+                    "current_balance": "02345.00",
+                    "estimated_income": null,
+                    "interest_rate": "5.50",
+                    "lendable_market_value": null,
+                    "market_value": null,
+                    "net_portfolio_value": null,
+                    "surplus_deficit": null,
+                    "unsettled_transactions": null
+                }
+            ],
+            "estimated_income_total": null,
+            "market_value_total": null,
+            "net_portfolio_value_total": null,
+            "portfolio_type": "cash",
+            "unsettled_transactions_total": null
+        },
+        {
+            "account": [
+                {
+                    "account_type": "investment",
+                    "available_funds": null,
+                    "cp_account_id": "ALL",
+                    "cp_account_name": "Client Portal bakjebfkajbsfkjba",
+                    "cp_code": "ACC_13",
+                    "current_balance": null,
+                    "estimated_income": "9007.06",
+                    "interest_rate": "",
+                    "lendable_market_value": null,
+                    "market_value": "46115.46",
+                    "net_portfolio_value": "-5000.00",
+                    "surplus_deficit": null,
+                    "unsettled_transactions": "-51115.46"
+                },
+                {
+                    "account_type": "investment",
+                    "available_funds": null,
+                    "cp_account_id": "ALL",
+                    "cp_account_name": "Client Portal bakjebfkajbsfkjba",
+                    "cp_code": "ACC_13",
+                    "current_balance": null,
+                    "estimated_income": "9007.06",
+                    "interest_rate": "",
+                    "lendable_market_value": null,
+                    "market_value": "46115.46",
+                    "net_portfolio_value": "-5000.00",
+                    "surplus_deficit": null,
+                    "unsettled_transactions": "-51115.46"
+                }
+            ],
+            "estimated_income_total": null,
+            "market_value_total": null,
+            "net_portfolio_value_total": null,
+            "portfolio_type": "investment",
+            "unsettled_transactions_total": null
+        },
+        {
+            "account": [
+                {
+                    "account_type": "Total",
+                    "available_funds": null,
+                    "cp_account_id": "TOTAL",
+                    "cp_account_name": "Client Portal bakjebfkajbsfkjba",
+                    "cp_code": "ACC_13",
+                    "current_balance": null,
+                    "estimated_income": "9809.48",
+                    "interest_rate": null,
+                    "lendable_market_value": null,
+                    "market_value": "58460.06",
+                    "net_portfolio_value": "7345.00",
+                    "surplus_deficit": null,
+                    "unsettled_transactions": "-41115.46"
+                },
+                {
+                    "account_type": "Total",
+                    "available_funds": null,
+                    "cp_account_id": "Total",
+                    "cp_account_name": "Client Portal bakjebfkajbsfkjba",
+                    "cp_code": "ACC_13",
+                    "current_balance": null,
+                    "estimated_income": "8809.48",
+                    "interest_rate": null,
+                    "lendable_market_value": null,
+                    "market_value": "88460.46",
+                    "net_portfolio_value": "5345.00",
+                    "surplus_deficit": null,
+                    "unsettled_transactions": null
+                }
+            ],
+            "estimated_income_total": "19809.48",
+            "market_value_total": "158460.46",
+            "net_portfolio_value_total": "17345.00",
+            "portfolio_type": "Total",
+            "unsettled_transactions_total": "-151115.46"
+        }
+    ],
+    "retrieve_client_identifier": "100001",
+    "selected_portfolio_type": "AH",
+    "transaction_id": "Test_transaction"
+}
